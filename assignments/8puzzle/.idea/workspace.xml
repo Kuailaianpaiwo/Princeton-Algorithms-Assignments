@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kdtree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.idea/libraries/_lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.lift/algs4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/Algorithms, Part II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/SAP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/SAP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/WordNet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/WordNet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph-ambiguous-ancestor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph-wordnet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/digraph9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms100-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms1000-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms10000-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms100K.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms11AmbiguousAncestor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms11ManyPathsOneAncestor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms15Path.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms15Tree.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms200K.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms300K.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms3InvalidCycle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms3InvalidTwoRoots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms500-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms5000-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms50000-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms6InvalidCycle+Path.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms6InvalidCycle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms6InvalidTwoRoots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms6TwoAncestors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms8ManyAncestors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernyms8WrongBFS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/hypernymsManyPathsOneAncestor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast10a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast12a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast5a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast8a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast8b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast8c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/outcast9a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets100-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets1000-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets10000-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets500-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets5000-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets50000-subgraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/synsets8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wordnet/wordnet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PuzzleChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/PuzzleChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PuzzleChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/PuzzleChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kdtree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kdtree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kdtree/KdTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../kdtree/KdTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kdtree/KdTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../kdtree/KdTree.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/lift/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,26 +158,67 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-783124082">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PuzzleChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+            <state relative-caret-position="528">
+              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/puzzle4x4-50.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Solver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+            <state relative-caret-position="1035">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -157,21 +290,25 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PuzzleChecker.java" />
         <option value="$PROJECT_DIR$/Board.java" />
         <option value="$PROJECT_DIR$/Solver.java" />
+        <option value="$PROJECT_DIR$/PuzzleChecker.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="110" />
-    <option name="y" value="49" />
+    <option name="x" value="338" />
+    <option name="y" value="119" />
     <option name="width" value="1514" />
     <option name="height" value="832" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showLibraryContents PackagesPane="false" />
@@ -181,8 +318,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,13 +330,15 @@
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545504183291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552900162040" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
@@ -217,7 +354,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Board">
+  <component name="RunManager" selected="Application.Solver">
     <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Board" />
       <module name="Algorithms, Part I" />
@@ -232,14 +369,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solver" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Board" />
       <item itemvalue="Application.PuzzleChecker" />
+      <item itemvalue="Application.Solver" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Board" />
+        <item itemvalue="Application.Solver" />
         <item itemvalue="Application.PuzzleChecker" />
+        <item itemvalue="Application.Board" />
       </list>
     </recent_temporary>
   </component>
@@ -265,10 +411,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="110" y="49" width="1514" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="338" y="119" width="1514" height="832" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14402173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15625" />
       <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
@@ -283,7 +428,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32662722" />
@@ -357,10 +502,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PuzzleChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="528">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puzzle4x4-50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -404,16 +567,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/logo.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Solver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
